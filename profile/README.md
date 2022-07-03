@@ -4,7 +4,7 @@
 
 ![](https://github.com/coemeta/public-work-log/blob/13b9eacdd3be522bcb61656af84213e0f99603c8/media/coemeta_logo_banner.png)
 
-These are Open Source & Public Work repositories from [Coεmeta](https://coemeta.xyz), a Public Benefit LLC providing data & sensemaking services with positive externalities. 
+These are Open Source & Public Work repositories from [Coεmeta](https://coemeta.xyz), a Public Benefit company providing data & sensemaking services with positive externalities. 
 
 > As our [name](https://github.com/coemeta/open-source-strategy/blob/main/name.md) reflects, Coεmeta is about **_finding truth together_**: \
 > Making **better sense** for **better places** through **better information, relation & process**.
